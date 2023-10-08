@@ -1,0 +1,17 @@
+body {
+  display: grid;
+}
+
+header {
+    
+    margin: 0 auto;
+}
+
+ .fish__image {
+    width: 100px;
+    float: left;
+}
+
+.location__image {
+    width: 100px;
+}
